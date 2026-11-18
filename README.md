@@ -14,3 +14,8 @@ AtmoGraph is an advanced Data Science and Machine Learning project designed to a
 * **Data Manipulation & Analysis:** Pandas, NumPy
 * **Data Visualization:** Matplotlib, Seaborn
 * **Machine Learning:** Scikit-Learn
+
+## Project Progress & Updates
+
+- Successfully configured data preprocessing and exploratory data analysis pipelines for AtmoGraph.
+- Managing large dataset storage efficiently using Git LFS and tracking supply chain ripple effects.
