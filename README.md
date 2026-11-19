@@ -19,3 +19,7 @@ AtmoGraph is an advanced Data Science and Machine Learning project designed to a
 
 - Successfully configured data preprocessing and exploratory data analysis pipelines for AtmoGraph.
 - Managing large dataset storage efficiently using Git LFS and tracking supply chain ripple effects.
+
+## Day 3: Model Training & Ripple Effect Evaluation
+- Prepared feature pipeline and train-test split on cleaned DataCo supply chain records.
+- Evaluated baseline classification models to predict delivery delays and supply chain risk.
