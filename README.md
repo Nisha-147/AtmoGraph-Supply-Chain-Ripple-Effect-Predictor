@@ -23,3 +23,7 @@ AtmoGraph is an advanced Data Science and Machine Learning project designed to a
 ## Day 3: Model Training & Ripple Effect Evaluation
 - Prepared feature pipeline and train-test split on cleaned DataCo supply chain records.
 - Evaluated baseline classification models to predict delivery delays and supply chain risk.
+
+## Supply Chain Ripple Effect & Streamlit App Progress
+- Designed interactive Streamlit dashboard workflows to visualize delay risks and regional ripple effects.
+- Integrated model predictions and risk filtering views for end-to-end supply chain monitoring.
