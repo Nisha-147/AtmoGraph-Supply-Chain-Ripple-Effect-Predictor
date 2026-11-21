@@ -27,3 +27,7 @@ AtmoGraph is an advanced Data Science and Machine Learning project designed to a
 ## Supply Chain Ripple Effect & Streamlit App Progress
 - Designed interactive Streamlit dashboard workflows to visualize delay risks and regional ripple effects.
 - Integrated model predictions and risk filtering views for end-to-end supply chain monitoring.
+
+## Local Execution & Risk Prediction Refinement
+- Verified local Streamlit app execution and end-to-end data-to-prediction workflow.
+- Reviewed model risk scoring logic and refined output presentation for supply chain bottlenecks.
