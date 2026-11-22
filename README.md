@@ -31,3 +31,7 @@ AtmoGraph is an advanced Data Science and Machine Learning project designed to a
 ## Local Execution & Risk Prediction Refinement
 - Verified local Streamlit app execution and end-to-end data-to-prediction workflow.
 - Reviewed model risk scoring logic and refined output presentation for supply chain bottlenecks.
+
+## Model Evaluation & Edge Case Validation
+- Tested prediction behavior across varying shipping modes, order quantities, and regional delays.
+- Verified error handling and data readiness for interactive supply chain risk analysis.
