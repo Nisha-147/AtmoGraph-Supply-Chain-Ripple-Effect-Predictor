@@ -35,3 +35,7 @@ AtmoGraph is an advanced Data Science and Machine Learning project designed to a
 ## Model Evaluation & Edge Case Validation
 - Tested prediction behavior across varying shipping modes, order quantities, and regional delays.
 - Verified error handling and data readiness for interactive supply chain risk analysis.
+
+## Ripple Effect Analysis & Mid-Review Readiness
+- Mapped cascading delay impacts across linked supply chain routes and fulfillment stages.
+- Organized project documentation, scripts, and app components for upcoming review milestones.
