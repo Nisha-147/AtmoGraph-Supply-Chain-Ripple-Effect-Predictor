@@ -43,3 +43,7 @@ AtmoGraph is an advanced Data Science and Machine Learning project designed to a
 ## MID Review Milestone Verification
 - Finalized Weeks 1-2 deliverables, Git LFS dataset tracking, and exploratory analysis documentation.
 - Verified end-to-end repository structure and commit history ahead of MID review submission.
+
+## Week 2 Final Summary & Feature Engineering
+- Completed feature encoding, delivery delay risk scoring, and dataset documentation for Week 2.
+- Validated cleaned data splits and exploratory metrics prior to model optimization.
