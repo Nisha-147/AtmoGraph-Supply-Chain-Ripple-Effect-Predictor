@@ -47,3 +47,7 @@ AtmoGraph is an advanced Data Science and Machine Learning project designed to a
 ## Week 2 Final Summary & Feature Engineering
 - Completed feature encoding, delivery delay risk scoring, and dataset documentation for Week 2.
 - Validated cleaned data splits and exploratory metrics prior to model optimization.
+
+## Model Tuning & Interactive Visualization Updates
+- Refined hyperparameter settings and feature importance thresholds for late delivery risk classification.
+- Enhanced interactive supply chain delay charts and regional risk breakdowns in the Streamlit interface.
